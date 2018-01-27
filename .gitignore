@@ -1,0 +1,8 @@
+dub.selections.json
+.dub
+.vscode
+*.lib
+*.obj
+*.a
+*.exe
+*.o

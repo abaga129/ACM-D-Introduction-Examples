@@ -1,0 +1,9 @@
+{
+	"name": "nogcexample",
+	"authors": [
+		"Ethan Reker"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2018, Ethan Reker",
+	"license": "MIT"
+}
