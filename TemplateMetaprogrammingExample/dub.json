@@ -1,0 +1,9 @@
+{
+	"name": "templatemetaprogrammingexample",
+	"authors": [
+		"Reker"
+	],
+	"description": "Small example to showcase Template Metaprogramming in D",
+	"copyright": "Copyright © 2018, Reker",
+	"license": "MIT"
+}

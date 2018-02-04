@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+mixinexample.so
+mixinexample.dylib
+mixinexample.dll
+mixinexample.a
+mixinexample.lib
+mixinexample-test-*
+*.exe
+*.o
+*.obj
+*.lst

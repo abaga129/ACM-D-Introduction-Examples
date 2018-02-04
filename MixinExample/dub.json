@@ -1,0 +1,9 @@
+{
+	"name": "mixinexample",
+	"authors": [
+		"Ethan Reker"
+	],
+	"description": "A small example to showcase mixins in D",
+	"copyright": "Copyright © 2018, Ethan Reker",
+	"license": "MIT"
+}
