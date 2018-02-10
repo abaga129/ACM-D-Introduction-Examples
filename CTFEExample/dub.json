@@ -1,0 +1,9 @@
+{
+	"name": "ctfeexample",
+	"authors": [
+		"Ethan Reker"
+	],
+	"description": "A small example to demonstration Compile-Time Function Evalutation",
+	"copyright": "Copyright © 2018, Ethan Reker",
+	"license": "MIT"
+}
